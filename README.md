@@ -1,5 +1,5 @@
 # mad019
-basic banner loop
+basic casino loop
 
 ![mad019](https://github.com/nicolasbaez/mad019/blob/master/mad019.gif)
 
